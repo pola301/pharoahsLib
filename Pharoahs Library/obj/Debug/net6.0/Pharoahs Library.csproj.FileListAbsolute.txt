@@ -1,0 +1,7 @@
+F:\College\Ph Lib\Pharoahs Library\obj\Debug\net6.0\Pharoahs Library.csproj.AssemblyReference.cache
+F:\College\Ph Lib\Pharoahs Library\obj\Debug\net6.0\Pharoahs Library.GeneratedMSBuildEditorConfig.editorconfig
+F:\College\Ph Lib\Pharoahs Library\obj\Debug\net6.0\Pharoahs Library.AssemblyInfoInputs.cache
+F:\College\Ph Lib\Pharoahs Library\obj\Debug\net6.0\Pharoahs Library.AssemblyInfo.cs
+F:\College\Ph Lib\Pharoahs Library\obj\Debug\net6.0\Pharoahs Library.csproj.CoreCompileInputs.cache
+F:\College\Ph Lib\Pharoahs Library\obj\Debug\net6.0\Pharoahs Library.MvcApplicationPartsAssemblyInfo.cs
+F:\College\Ph Lib\Pharoahs Library\obj\Debug\net6.0\Pharoahs Library.MvcApplicationPartsAssemblyInfo.cache
